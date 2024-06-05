@@ -1,0 +1,30 @@
+{
+  "name": "uf1846_prova_practica_enunciat",
+  "version": "1.0.0",
+  "description": "prueba practica uf1846-05 de junio de 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelcanodw/uf1846_prueva_practica_05_de_junio_2024.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "body-parser",
+    "mysql"
+  ],
+  "author": "Manuel Cano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelcanodw/uf1846_prueva_practica_05_de_junio_2024/issues"
+  },
+  "homepage": "https://github.com/manuelcanodw/uf1846_prueva_practica_05_de_junio_2024#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
